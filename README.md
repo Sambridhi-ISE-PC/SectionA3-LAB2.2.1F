@@ -1,8 +1,10 @@
 # TODO: Replace with your team name
 
-## Our Team
+## A3 TEAM
 
 Sambridhi
+
+#Viviana Ramos 
 
 ## How to run the streamlit app
 
