@@ -2,7 +2,7 @@
 
 ## Our Team
 
-TODO: Replace with your team members
+Sambridhi
 
 ## How to run the streamlit app
 
